@@ -275,11 +275,7 @@ header {
     animation-delay: 6s; 
     color: #FFB201;
     text-align: center;
-<<<<<<< HEAD
     margin-left: -20px;
-=======
-    margin-left: -25px;
->>>>>>> 163cecdf93b2791f095ed31f446714bae123dde2
 }
 @keyframes rotateWord {
   0%   { opacity: 0; }
@@ -300,11 +296,11 @@ header {
       font:normal normal 300 2em 'Work Sans';
       text-decoration:none;	
       font-weight: bold;
-      align-items: cente
+      align-items: center;
       
       color:rgba(255,255,255,1);
       background-color:rgb(1, 102, 255);
-      border:1px solid rgb(1, 102, 255);
+      border: 1px solid rgb(1, 102, 255);
       border-radius:100px;
       
       padding: .3em 1.2em;

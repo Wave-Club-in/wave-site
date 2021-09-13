@@ -269,13 +269,13 @@ header {
     animation-delay: 3s; 
     color: #FF0057;
     text-align: center;
-    margin-left: 50px;
+    margin-left: 100px;
 }
 .spinny-words span:nth-child(3) { 
     animation-delay: 6s; 
     color: #FFB201;
     text-align: center;
-    margin-left: -50px;
+    margin-left: -100px;
 }
 @keyframes rotateWord {
   0%   { opacity: 0; }
